@@ -29,5 +29,5 @@ O objetivo é praticar consultas e manipulação de dados por meio de comandos D
 
 - PostgreSQL
 - SQL
-- pgAdmin
+- pgAdmin 4
 
