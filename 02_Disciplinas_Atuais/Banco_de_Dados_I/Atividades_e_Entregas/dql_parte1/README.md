@@ -22,6 +22,7 @@ O objetivo é praticar consultas e manipulação de dados por meio de comandos D
 
 | Arquivo | Descrição |
 |---|---|
+| `base_de_dados_dql1.sql` | Script para criação e povoamento do banco de dados `mercado`. |
 | `dql_parte1.sql` | Resolução dos exercícios em SQL. |
 | `enunciado_ex_dql_parte1.pdf` | Enunciado original da atividade. |
 
